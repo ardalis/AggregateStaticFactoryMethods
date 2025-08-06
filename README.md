@@ -4,7 +4,7 @@ When should you use static factory methods for aggregates?
 
 See the explanation here:
 
-(youtube video)
+[When do you use static factories with entities (YouTube)](https://youtu.be/EuFEqVV1GHQ)
 
 ## See Also (related code and patterns)
 
